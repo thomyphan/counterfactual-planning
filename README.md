@@ -2,8 +2,7 @@
 
 This software is based on the open-loop MCTS implementation from [1] as well as the original POMCP implementation from [2].
 
-Featured algorithms:
-    - Counterfactual Open-loop Reasoning with Ad hoc Learning (CORAL) [3]
+Featured algorithm: Counterfactual Open-loop Reasoning with Ad hoc Learning (CORAL) [3]
 
 ## Usage
 The code requires the external libraries [`BOOST 1.81.0`](https://www.boost.org/) and [`CMake`](https://cmake.org) for building the code. 
