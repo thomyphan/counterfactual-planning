@@ -39,7 +39,7 @@ The command will output two CSV files containing **(1)** the average performance
 
 ## Important Modules
 
-The algorithmic contributions of the paper can be found in `mabuc.h/cpp` (MABUC) and `causal_planner.h/cpp` (CORAL):
+The algorithmic contributions of the paper can be found in `mabuc.h/cpp` (MABUC) and `causal_planner.h/cpp` (CORAL).
 
 ## Analysis
 
